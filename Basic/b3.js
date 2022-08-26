@@ -5,9 +5,9 @@ Syntax:
 function name(parameter1, parameter2, parameter3) {
     // code to be executed
 }
-1. Function parameters are listed inside the parentheses () in the function definition.
-2. Function arguments are the values received by the function when it is invoked.
-3. Inside the function, the arguments (the parameters) behave as local variables.
+
+Why function?
+1. Reusability of code: Use same code many time with different arguements
 */
 
 // Let's create a simple function to add two numbers
